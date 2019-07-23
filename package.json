@@ -1,0 +1,25 @@
+{
+  "name": "planner-for-transactional-attorneys",
+  "version": "1.0.0",
+  "description": "An excel-based macro-driven planner customized for transactional attorneys. The planner provides tabs for time entry, date planning (a calendar), and payroll submissions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "planner-for-transactional-attorneys"
+  },
+  "keywords": [
+    "planner",
+    "legal",
+    "calendar",
+    "timeentry",
+    "payroll",
+    "vba",
+    "macros",
+    "excel"
+  ],
+  "author": "John Hillert",
+  "license": "MIT"
+}
